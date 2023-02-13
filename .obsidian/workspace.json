@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09ca5e175097f522",
+        "id": "ff781bb5732a4180",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc31a04180bd30b",
+            "id": "dcd0fd8bbc4abe51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Materials data scheme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Materials data scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Materials data scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Materials data scheme.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dc31a04180bd30b",
+  "active": "dcd0fd8bbc4abe51",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Sql.md",
+    "Materials data scheme.md",
+    "files/MaterialsDataSchemeDiagram.svg",
+    "ERD.png",
+    "MaterialsDataSchemeDiagram.svg"
   ]
 }
